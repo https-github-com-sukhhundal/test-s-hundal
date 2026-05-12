@@ -1,0 +1,12 @@
+
+<html>
+  <head>
+    <title>
+    </title>
+  </head>
+  <body>
+    <script>
+      name=alert("WHat is your Age");
+      document.write("Hello Age is "+name);
+    </script>
+  </body>
